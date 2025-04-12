@@ -70,3 +70,10 @@ config.yaml
 data.yaml
 *.scss
 *.css.map
+
+# Privacy related files
+sessions/
+temp/
+log/
+*.session
+*.session-journal
